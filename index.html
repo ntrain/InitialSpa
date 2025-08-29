@@ -7,16 +7,15 @@
   <body style="background-color:lightblue;">
    <h1> Wecome to Movie Decider!</h1>
     <p> Too many movies to choose from? Need a movie referee? Let Movie Decider choose a movie for you.</p>
+   
+    <p id="demo" onclick="myFunction()">Click me.</p>
 
-    <script>
-       button.onclick= function() {
-         alert("Enter a movie title.");
-    }
-    </script>
-
-    <!--
-    <button type=button">Click me to add movie title</button>
-    -->
+  <script>
+    function myFunction() {
+    document.getElementById("demo").innerHTML = "ENTER YOUR MOVIE TITLE!";
+  }
+  </script>
+    
     <img src="ai-generated-8029939_1280.png">
     <p><a href="secondpage.html">More</a></p>
   </body>

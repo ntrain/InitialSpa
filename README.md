@@ -4,3 +4,9 @@ The user selects the Click me button to add a movie title to the application.
 Once 2 or more titles are added, the user would then select the Randomize button.
 The Randomize button would, in theory, shuffle the movie titles and choose one randomly.
 Thus removing the unnecessary arguements that might arise from trying to decide which movie to watch.
+
+Initially I used a seperate CSS file but changed to copy the template set forth in the CS1030Web Github to all HTML, CSS, and JS were compiled within index.html.
+
+I found myself wandering too much into the design realm and wanting to add extra's above and beyond the scope of the assignment and needed to reel myself in quite a ew times to stay on target.
+
+I will work more on this application outside of class as I believe I cna utilize this app for personal use.
